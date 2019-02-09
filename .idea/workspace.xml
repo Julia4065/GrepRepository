@@ -9,7 +9,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/resources/features/Grep.feature" description="  Scenario: 1-File contains words from grep line i..." line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1f90ea-6203-49bc-aff9-1aa2ac84376f" name="Default Changelist" comment="">
+    <list default="true" id="2b1f90ea-6203-49bc-aff9-1aa2ac84376f" name="Default Changelist" comment="Testing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/Grep.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Grep.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -431,8 +432,51 @@
       <workItem from="1547284375642" duration="40605000" />
       <workItem from="1548496508327" duration="2948000" />
       <workItem from="1548607914368" duration="12828000" />
-      <workItem from="1549219116636" duration="18581000" />
+      <workItem from="1549219116636" duration="20423000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing">
+      <created>1549715818109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549715818109</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Testing">
+      <created>1549716411435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549716411435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Testing">
+      <created>1549716500261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549716500261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Testing">
+      <created>1549716563200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549716563200</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Testing">
+      <created>1549716865785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549716865785</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testing">
+      <created>1549717007755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549717007755</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -468,12 +512,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151342000" />
+    <option name="totallyTimeSpent" value="153184000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49056605" visible="true" weight="0.2637584" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49056605" visible="true" weight="0.2637584" />
       <window_info id="Structure" order="1" sideWeight="0.509434" side_tool="true" weight="0.2637584" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -482,13 +527,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33002833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -539,6 +584,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
