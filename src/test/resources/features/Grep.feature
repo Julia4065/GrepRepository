@@ -1,6 +1,6 @@
 Feature: As a user
   I want to extract from file all mentioned words
-  So that new file is generated with extracted words
+  So that new file is generated with extracted words testing
 
   Scenario: 1-File contains words from grep line if they exist in the initial file
     Given I have an initial file "C:\D\IdeaProjectForGitHub\Grep\readFromThisFile.txt" with the following content
