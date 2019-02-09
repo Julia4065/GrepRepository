@@ -9,7 +9,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/resources/features/Grep.feature" description="  Scenario: 1-File contains words from grep line i..." line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b1f90ea-6203-49bc-aff9-1aa2ac84376f" name="Default Changelist" comment="" />
+    <list default="true" id="2b1f90ea-6203-49bc-aff9-1aa2ac84376f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Grep.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Grep.feature" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +41,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/GrepLineArgs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -104,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/Grep.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="34">
+              <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -144,7 +146,8 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,10 +177,10 @@
         <option value="$PROJECT_DIR$/readFromThisFile.TXT" />
         <option value="$PROJECT_DIR$/src/test/java/GrepLineArgsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/stepdefs/CucumberSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/Grep.feature" />
         <option value="$PROJECT_DIR$/src/main/java/Grepped.java" />
         <option value="$PROJECT_DIR$/src/test/java/GreppedTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/GrepLineArgs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Grep.feature" />
       </list>
     </option>
   </component>
@@ -281,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549398615694" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549715776837" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
@@ -428,7 +431,7 @@
       <workItem from="1547284375642" duration="40605000" />
       <workItem from="1548496508327" duration="2948000" />
       <workItem from="1548607914368" duration="12828000" />
-      <workItem from="1549219116636" duration="17941000" />
+      <workItem from="1549219116636" duration="18581000" />
     </task>
     <servers />
   </component>
@@ -465,7 +468,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150702000" />
+    <option name="totallyTimeSpent" value="151342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -979,13 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Grep.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StringContent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1041,6 +1037,13 @@
             <element signature="e#1052#1053#0" expanded="true" />
             <element signature="e#1099#1100#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Grep.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>
